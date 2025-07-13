@@ -43,7 +43,7 @@
             // 
             B_Sort.BackColor = Color.FromArgb(231, 156, 73);
             B_Sort.BackgroundImageLayout = ImageLayout.Zoom;
-            B_Sort.FlatAppearance.BorderColor = Color.Black;
+            //B_Sort.FlatAppearance.BorderSize = 0;
             B_Sort.FlatStyle = FlatStyle.Flat;
             B_Sort.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point);
             B_Sort.ForeColor = Color.Black;

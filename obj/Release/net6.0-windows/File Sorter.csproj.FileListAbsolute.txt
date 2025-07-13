@@ -15,3 +15,21 @@ C:\Users\Maksonishe\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter
 C:\Users\Maksonishe\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.genruntimeconfig.cache
 C:\Users\Maksonishe\Downloads\File Sorter\obj\Release\net6.0-windows\ref\File Sorter.dll
 C:\Users\Maksonishe\Downloads\File Sorter\obj\Release\net6.0-windows\File_Sorter.Properties.Resources.resources
+D:\Transfer win\Downloads\File Sorter\bin\Release\net6.0-windows\File Sorter.exe
+D:\Transfer win\Downloads\File Sorter\bin\Release\net6.0-windows\File Sorter.deps.json
+D:\Transfer win\Downloads\File Sorter\bin\Release\net6.0-windows\File Sorter.runtimeconfig.json
+D:\Transfer win\Downloads\File Sorter\bin\Release\net6.0-windows\File Sorter.dll
+D:\Transfer win\Downloads\File Sorter\bin\Release\net6.0-windows\File Sorter.pdb
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File_Sorter.Form1.resources
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File_Sorter.Form2.resources
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File_Sorter.Properties.Resources.resources
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.csproj.GenerateResource.cache
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.AssemblyInfoInputs.cache
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.AssemblyInfo.cs
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.csproj.CoreCompileInputs.cache
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.dll
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\refint\File Sorter.dll
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.pdb
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\File Sorter.genruntimeconfig.cache
+D:\Transfer win\Downloads\File Sorter\obj\Release\net6.0-windows\ref\File Sorter.dll
